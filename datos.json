@@ -1,63 +1,51 @@
 [
   {
     "codigoProducto": "01",
+    "nombreProducto": "Arroz",
     "inventarioProducto": 3,
     "precioProducto": 45000
   },
   {
     "codigoProducto": "02",
+    "nombreProducto": "Arroz",
     "inventarioProducto": 11,
     "precioProducto": 15000
   },
   {
     "codigoProducto": "03",
+    "nombreProducto": "Arroz",
     "inventarioProducto": 14,
     "precioProducto": 1000
   },
   {
     "codigoProducto": "04",
+    "nombreProducto": "Arroz",
     "inventarioProducto": 11,
     "precioProducto": 35000
   },
   {
     "codigoProducto": "05",
+    "nombreProducto": "Arroz",
     "inventarioProducto": 19,
     "precioProducto": 75000
   },
   {
     "codigoProducto": "06",
+    "nombreProducto": "Arroz",
     "inventarioProducto": 17,
     "precioProducto": 65500
   },
   {
     "codigoProducto": "07",
+    "nombreProducto": "Arroz",
     "inventarioProducto": 14,
     "precioProducto": 655000
   },
   {
     "codigoProducto": "08",
+    "nombreProducto": "Arroz",
     "inventarioProducto": 2,
     "precioProducto": 12000
-  },
-  {
-    "codigoProducto": "09 ",
-    "inventarioProducto": 4,
-    "precioProducto": 18000
-  },
-  {
-    "codigoProducto": "03",
-    "inventarioProducto": 14,
-    "precioProducto": 250
-  },
-  {
-    "codigoProducto": "10",
-    "inventarioProducto": 9,
-    "precioProducto": 20000
-  },
-  {
-    "codigoProducto": "",
-    "nombreArchivo": "",
-    "inventarioProducto": 12,
-    "precioProducto": null
   }
+  
 ]

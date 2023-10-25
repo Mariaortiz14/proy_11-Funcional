@@ -63,17 +63,17 @@ const digitarDato = (mensaje) =>{
   */
   const pausa = () =>{
     return new Promise( resolve =>{
-      
+      //definimos la interfaz del teclado para que el usuario interactue
       const readline = require ('readline').createInterface({
         
-        input: process.stdin,
-        output: process.stdout
+        input: process.stdin,//Node espera lo que digita el el usuario
+        output: process.stdout//Node muestra en la consola
       });
-      
+      //crea la interfaz definida
       readline.question(`\nPresione ${'ENTER'} para continuar\n`, (opt)=> {
         
-        readline.close();
-        resolve();
+        readline.close();//se utiliza para crear una instancia de la interfaz
+        resolve();//se emplea para indicar que la promesa se ha cumpido con exito
       })
     })
   }

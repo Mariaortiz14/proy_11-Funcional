@@ -89,7 +89,7 @@ class Producto {
         return {
           codigoProducto: producto.getCodigoProducto,
           nombreProducto: producto.getNombreProducto,
-          inventarioProducto: getInventarioProducto,
+          inventarioProducto: producto.getInventarioProducto,
           precioProducto: producto.getPrecioProducto
         };
       });
